@@ -1,0 +1,25 @@
+body{
+    background-color: #888;
+
+
+}
+.main{
+    top:40px;
+    cellpadding:2;
+    cellspacing:5;
+    color:red;
+    background-color:#88ff88;
+    border:5px groove red;
+    position:absolute;
+    left:40%;
+    width:20%;
+
+
+}
+h2  {
+    background-color:orange;
+    text-align:center;
+}
+btn{
+    left:20%;
+}
